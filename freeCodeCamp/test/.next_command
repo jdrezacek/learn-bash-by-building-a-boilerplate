@@ -359,3 +359,4 @@ __vsc_prompt_cmd_original
 ls --color=auto
 touch style.css
 touch styles.css
+ls --color=auto
