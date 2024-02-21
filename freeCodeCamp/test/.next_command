@@ -413,3 +413,4 @@ mv menlo.font menlo.otf
 ks
 ls --color=auto
 mkdir fonts
+ls --color=auto
