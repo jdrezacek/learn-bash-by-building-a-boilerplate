@@ -513,3 +513,8 @@ ls --color=auto
 mv website webite-boilerplate
 mv webite-boilerplate/ website-boilerplate
 ls --color=auto website-boilerplate/
+copy --helpy
+copy --help
+copy --h
+copy -help
+cp --help
