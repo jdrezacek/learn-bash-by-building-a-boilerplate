@@ -518,3 +518,6 @@ copy --help
 copy --h
 copy -help
 cp --help
+__vsc_prompt_cmd_original
+co website-boilerplate/ toms-website
+cp -r website-boilerplate/ toms-website
