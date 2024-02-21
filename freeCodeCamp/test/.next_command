@@ -403,3 +403,4 @@ ls --color=auto
 cd ..
 la
 ls --color=auto
+rm header.png
