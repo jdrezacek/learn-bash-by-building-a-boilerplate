@@ -454,3 +454,4 @@ mv header.png cc
 mv header.png ..
 touch header.png
 mv header.png ..
+ls --color=auto
