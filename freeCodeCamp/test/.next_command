@@ -438,3 +438,4 @@ find
 cd client
 mkdir assets
 cd assets
+mkdir images
