@@ -193,3 +193,5 @@ echo hello terminal
 __vsc_prompt_cmd_original
 pqd
 pwd
+__vsc_prompt_cmd_original
+ls --color=auto
