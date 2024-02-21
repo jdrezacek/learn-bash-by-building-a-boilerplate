@@ -369,3 +369,7 @@ ls --color=auto -l
 ls --color=auto --help
 ls --color=auto -a
 cd .
+touch background.jped
+touch background.jpeg
+ls --color=auto
+touch background.jpg
