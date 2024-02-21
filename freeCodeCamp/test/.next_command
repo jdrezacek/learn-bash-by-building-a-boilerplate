@@ -474,3 +474,4 @@ rm cc
 ls --color=auto
 cd ..
 rmdir images
+ls --color=auto
