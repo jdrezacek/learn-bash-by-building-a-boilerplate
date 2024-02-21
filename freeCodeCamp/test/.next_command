@@ -417,3 +417,4 @@ ls --color=auto
 mv roboto.woff fonts
 file
 find
+mv lato.ttf fonts
