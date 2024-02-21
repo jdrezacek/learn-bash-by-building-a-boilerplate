@@ -365,3 +365,5 @@ touch .gitignore
 __vsc_prompt_cmd_original
 la
 ls --color=auto
+ls --color=auto -l
+ls --color=auto --help
