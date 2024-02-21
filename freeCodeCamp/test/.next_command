@@ -450,3 +450,7 @@ cd client/assets/images/
 cd ../../..
 cd images
 ls --color=auto
+mv header.png cc
+mv header.png ..
+touch header.png
+mv header.png ..
